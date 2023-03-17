@@ -42,6 +42,11 @@ p {
 a {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px 20px 10px;
+}
+
+a:hover {
+    color: #EAF6F6;
 }
 
 .profile { 
@@ -136,4 +141,7 @@ span {
 
   .bottom-final {
     color: #EAF6F6;
+    font-size: small;
+    margin-top: 30px;
+    font-weight: 800;
   }
